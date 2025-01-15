@@ -1,4 +1,4 @@
-### AI-Powered Health Diagnosis Assistant
+# AI-Powered Health Diagnosis Assistant
 
 
 Final project for the Building AI course
